@@ -2,4 +2,5 @@
 cambios g
 hola
 
-conflicto 
+<?php echo "codigo2"; ?>
+<?php echo "codigo3"; ?>
